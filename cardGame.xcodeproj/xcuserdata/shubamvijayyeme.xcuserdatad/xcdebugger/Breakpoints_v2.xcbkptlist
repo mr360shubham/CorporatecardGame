@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "415D1BBF-45FB-4483-AF99-C1B9A95785F9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A2DD82A-49F3-4593-9A25-E80878F26D50"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cardGame/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "stopButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9A2DD82A-49F3-4593-9A25-E80878F26D50 - 8c4acf6fc8f1d976"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cardGame.ViewController.stopButton(__C.UIButton) -&gt; ()"
+                  moduleName = "cardGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubamvijayyeme/Downloads/cardGame/cardGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69">
+               </Location>
+               <Location
+                  uuid = "9A2DD82A-49F3-4593-9A25-E80878F26D50 - 8c4acf6fc8f1d976"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cardGame.ViewController.stopButton(__C.UIButton) -&gt; ()"
+                  moduleName = "cardGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubamvijayyeme/Downloads/cardGame/cardGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
